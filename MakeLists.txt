@@ -1,0 +1,14 @@
+cmake_minimum_required(VERSION 3.14)
+project(YourProjectName LANGUAGES CXX)
+
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+# Add include directories
+include_directories(include third_party)
+
+# Create executable for the demo application
+add_executable(GltfDemo src/main.cpp)
+
+# Optionally link libraries (if needed)
+# target_link_libraries(GltfDemo <library_name>)
