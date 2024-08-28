@@ -10,6 +10,7 @@ A minimal and efficient C++20 glTF serializer/deserializer with a header-only de
 
 ## File Structure
 
+```bash
 /YourProject 
 ├── /include 
 │ 
@@ -23,7 +24,7 @@ A minimal and efficient C++20 glTF serializer/deserializer with a header-only de
 │ └── example_model.gltf 
 ├── CMakeLists.txt 
 └── README.md
-
+```
 
 ## How to Build
 
