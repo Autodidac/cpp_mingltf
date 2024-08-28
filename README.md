@@ -15,7 +15,7 @@ A minimal and efficient C++20 glTF serializer/deserializer with a header-only de
 │
 ├── /include                    # Directory for all header files (header-only library code)
 │   ├── gltf_parser.hpp         # Main glTF parser and serializer/deserializer header
-│   └── ...                     # Other utility headers or single-file libraries (e.g., stb, your memory allocator)
+│   └── ...                     # Other utility headers or single-file libraries 
 │
 ├── /src                        # Source directory (only for example or demo applications)
 │   └── main.cpp                # Main application file demonstrating usage
