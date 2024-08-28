@@ -1,4 +1,4 @@
-#include "minimalgltf.hpp"
+#include "../include/minimalgltf.hpp"
 
 int main() {
     const std::filesystem::path filePath = "../models/Cube.gltf";
