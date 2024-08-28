@@ -22,7 +22,7 @@ int main() {
     }
 
     // Save the glTF model to a new file
-    if (!GLTFParser::save_to_file(model, "path/to/your/model_output.gltf")) {
+    if (!GLTFParser::save_to_file(model, "../models/test_model_saving.gltf")) {
         std::cerr << "Failed to save glTF model." << std::endl;
         return -1;
     }
