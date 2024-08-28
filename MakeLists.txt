@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 # Add include directories
-include_directories(include third_party)
+include_directories(include dep)
 
 # Create executable for the demo application
 add_executable(GltfDemo src/main.cpp)
