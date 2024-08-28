@@ -24,7 +24,7 @@ A minimal and efficient C++20 glTF serializer/deserializer with a header-only de
 │   └── nlohmann_json.hpp       # Header-only JSON library (nlohmann/json)
 │
 ├── /models                     # Directory for example glTF models
-│   └── example_model.gltf      # Sample glTF file
+│   └── Cube.gltf               # Sample glTF file
 │
 ├── CMakeLists.txt              # CMake build file (if you are using CMake for your project)
 │
