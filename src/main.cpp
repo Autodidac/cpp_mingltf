@@ -1,7 +1,7 @@
 #include "minimalgltf.hpp"
 
 int main() {
-    const std::filesystem::path filePath = "path/to/your/model.gltf";
+    const std::filesystem::path filePath = "../models/Cube.gltf";
 
     // Load the glTF file
     auto modelOpt = GLTFParser::load_from_file(filePath);
