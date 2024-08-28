@@ -10,7 +10,19 @@ A minimal and efficient C++20 glTF serializer/deserializer with a header-only de
 
 ## File Structure
 
-/YourProject ├── /include │ ├── gltf_parser.hpp │ └── ... ├── /src │ └── main.cpp ├── /third_party │ └── nlohmann_json.hpp ├── /models │ └── example_model.gltf ├── CMakeLists.txt └── README.md
+/YourProject 
+├── /include 
+│ 
+├── gltf_parser.hpp 
+│ └── ... 
+├── /src 
+│ └── main.cpp 
+├── /third_party 
+│ └── nlohmann_json.hpp 
+├── /models 
+│ └── example_model.gltf 
+├── CMakeLists.txt 
+└── README.md
 
 
 ## How to Build
