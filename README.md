@@ -20,8 +20,8 @@ A minimal and efficient C++20 glTF serializer/deserializer with a header-only de
 ├── /src                        # Source directory (only for example or demo applications)
 │   └── main.cpp                # Main application file demonstrating usage
 │
-├── /third_party                # Directory for third-party header-only libraries
-│   └── nlohmann_json.hpp       # Header-only JSON library (nlohmann/json)
+├── /dep                        # Directory for third-party libraries
+│   └── cppjson.hpp       # Header-only JSON library (nlohmann/json)
 │
 ├── /models                     # Directory for example glTF models
 │   └── Cube.gltf               # Sample glTF file
