@@ -50,5 +50,5 @@ Run the demo application:
 
 This will load the example glTF model from the /models directory and display its node information.
 
-Dependencies
+## Dependencies
 Autodidac/CppMinimalJSON (header-only JSON library)
