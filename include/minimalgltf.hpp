@@ -10,7 +10,7 @@
 #include "include/cpp_minjson.hpp" // Include the JSON library header (header-only)
 
 // Alias for JSON
-using json = nlohmann::json;
+using json = minjson::cpp_minjson;
 
 struct GLTFNode {
     std::string name;
