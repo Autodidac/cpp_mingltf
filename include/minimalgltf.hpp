@@ -7,7 +7,7 @@
 #include <unordered_map>
 #include <variant>
 #include <vector>
-#include <nlohmann/json.hpp> // Include the JSON library header (header-only)
+#include "include/cpp_minjson.hpp" // Include the JSON library header (header-only)
 
 // Alias for JSON
 using json = nlohmann::json;
