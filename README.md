@@ -1,4 +1,4 @@
-<img align="left" src="Content/logo_small.png" width="180px"/>
+<img align="left" src="models/Avocado_baseColor.png" width="180px"/>
 
 # cpp_mingltf - Minimal glTF Library in C++20
 
