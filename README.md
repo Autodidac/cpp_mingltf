@@ -1,4 +1,4 @@
-<img align="left" src="models/Avocado_baseColor.png" width="300px"/>
+<img align="left" src="models/Avocado_baseColor.png" width="500px"/>
 
 # cpp_mingltf - Minimal glTF Library in C++20
 [![Github Build Status](https://github.com/Autodidac/cpp_mingltf/workflows/Build/badge.svg)](https://github.com/Autodidac/cpp_mingltf/actions)
