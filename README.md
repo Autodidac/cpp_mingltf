@@ -1,4 +1,8 @@
+<img align="left" src="Content/logo_small.png" width="180px"/>
+
 # cpp_mingltf - Minimal glTF Library in C++20
+
+[![Github Build Status](https://github.com/Autodidac/cpp_mingltf/workflows/Build/badge.svg)](https://github.com/Autodidac/cpp_mingltf/actions)
 
 ## Minimal glTF Serializer/Parser in C++20 for Game Development
 
