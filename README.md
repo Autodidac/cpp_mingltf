@@ -25,7 +25,7 @@ A minimal and efficient C++20 glTF serializer/deserializer with a header-only de
 │   └── main.cpp                # Main application file demonstrating usage
 │
 ├── /dep                        # Directory for third-party libraries
-│   └── cppjson.hpp             # Header-only JSON library (Autodidac/CppMinimalJSON)
+│   └── cpp_minjson.hpp         # Header-only JSON library (Autodidac/CppMinimalJSON)
 │
 ├── /models                     # Directory for example glTF models
 │   └── Cube.gltf               # Sample glTF file
