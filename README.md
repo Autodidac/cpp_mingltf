@@ -1,6 +1,6 @@
 <img align="left" src="models/Avocado_baseColor.png" width="100px"/>
 
-# cpp_mingltf - Minimal glTF Library in C++20 [![Actions Status](https://github.com/zeux/meshoptimizer/workflows/build/badge.svg)](https://github.com/zeux/meshoptimizer/actions) [![codecov.io](https://codecov.io/github/zeux/meshoptimizer/coverage.svg?branch=master)](https://codecov.io/github/zeux/meshoptimizer?branch=master) ![MIT](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub](https://img.shields.io/badge/repo-github-green.svg)](https://github.com/zeux/meshoptimizer)
+# cpp_mingltf - Minimal glTF Library in C++20 [![Actions Status](https://github.com/Autodidac/cpp_mingltf/workflows/build/badge.svg)](https://github.com/Autodidac/cpp_mingltf/actions) [![codecov.io](https://codecov.io/github/Autodidac/cpp_mingltf/coverage.svg?branch=master)](https://codecov.io/github/Autodidac/cpp_mingltf?branch=master) ![MIT](https://img.shields.io/badge/license-MIT-blue.svg) [![GitHub](https://img.shields.io/badge/repo-github-green.svg)](https://github.com/Autodidac/cpp_mingltf)
 
 
 [![Github Build Status](https://github.com/Autodidac/cpp_mingltf/workflows/Build/badge.svg)](https://github.com/Autodidac/cpp_mingltf/actions)
